@@ -81,10 +81,4 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="500px"/>
   </p>
 
-### ⚡ **GitHub Streak**
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afdaan&theme=tokyonight&hide_border=true" width="500px"/>
-  </p>
-
 </details>
