@@ -66,26 +66,25 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
 <details>
   <summary>📊 <strong>GitHub Stats & Insights</strong> ✨</summary>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)  
- ![GitHub Followers](https://img.shields.io/github/followers/your-username?style=flat&color=blue)  
- ![GitHub Repo](https://img.shields.io/github/repo-size/your-username/your-repo?style=flat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Afdaan&color=blue&style=flat)  
+ ![GitHub Followers](https://img.shields.io/github/followers/Afdaan?style=flat&color=blue)
 
 ### 🚀 **GitHub Stats**
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500px"/>
   </p>
 
 ### 🔥 **Most Used Languages**
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="500px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="500px"/>
   </p>
 
 ### ⚡ **GitHub Streak**
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="500px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afdaan&theme=tokyonight&hide_border=true" width="500px"/>
   </p>
 
 </details>
