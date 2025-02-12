@@ -43,12 +43,12 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
 
 ## 🛠 Tools
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Oh My Zsh](https://img.shields.io/badge/-Oh%20My%20Zsh-1A1A1A?style=flat&logo=ohmyzsh&logoColor=white)
-![Zsh](https://img.shields.io/badge/-Zsh-FFD500?style=flat&logo=gnu-bash&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Oh My Zsh](https://img.shields.io/badge/-Oh%20My%20Zsh-1A1A1A?style=flat&logo=ohmyzsh&logoColor=white)  
+![Zsh](https://img.shields.io/badge/-Zsh-FFD500?style=flat&logo=gnu-bash&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
 
 ---
