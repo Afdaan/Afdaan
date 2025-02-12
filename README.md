@@ -18,7 +18,7 @@ I'm a Network Operations Center in Indonesia, Yogyakarta.
 ---
 
 <details>
-  <summary>🎧 Audiophile</summary>
+  <summary>**Audiophile 🎧**</summary>
 
 Just a regular guy, a passionate listener who seeks the highest sound quality possible. In the world of IEMs (In-Ear Monitors), audiophiles chase clarity, soundstage, and balanced tuning to experience music as the artist intended.
 
