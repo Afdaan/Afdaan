@@ -44,6 +44,7 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
 ## 🛠 Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 ![Oh My Zsh](https://img.shields.io/badge/-Oh%20My%20Zsh-1A1A1A?style=flat&logo=ohmyzsh&logoColor=white)  
