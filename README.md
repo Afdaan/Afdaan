@@ -17,9 +17,14 @@ I'm a Network Operations Center in Indonesia, Yogyakarta.
 
 ---
 
-🎧 Audiophile
+<details>
+  <summary>🎧 Audiophile</summary>
 
-_(noun)_ : A passionate listener who seeks the highest sound quality possible. In the world of IEMs (In-Ear Monitors), audiophiles chase clarity, soundstage, and balanced tuning to experience music as intended by the artist. A DAC (Digital-to-Analog Converter) is essential for improving audio resolution, reducing distortion, and unlocking the full potential of high-quality headphones and IEMs.
+_(noun)_ : A passionate listener who seeks the highest sound quality possible. In the world of **IEMs (In-Ear Monitors)**, audiophiles chase clarity, soundstage, and balanced tuning to experience music as intended by the artist.
+
+A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolution, reducing distortion, and unlocking the full potential of high-quality headphones and IEMs.
+
+</details>
 
 ---
 
