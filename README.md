@@ -1,4 +1,4 @@
-# Hi there, Im**Afdaan** 👋
+# Hi there, Im **Afdaan** 👋
 
 I'm a Network Operations Center in Indonesia, Yogyakarta.  
 2+ years of experience in web development, especially in PHP and Laravel.  
@@ -12,7 +12,7 @@ I'm a Network Operations Center in Indonesia, Yogyakarta.
 💡 I'm currently working in the **NOC** at [Bitwyre](https://bitwyre.id/) and several _fun_ personal projects.
 
 🌱 I'm currently learning ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) and ![Pipeline](https://img.shields.io/badge/-Pipeline-0078D7?style=flat&logo=github-actions&logoColor=white).  
-🎧 I listen to JPOP music in my spare time. 🎶
+🎧 I listen to JPOP music in my spare time. 🎶  
 ☕ A cup a day.
 
 ---
@@ -20,7 +20,7 @@ I'm a Network Operations Center in Indonesia, Yogyakarta.
 <details>
   <summary>🎧 Audiophile</summary>
 
-_(noun)_ : A passionate listener who seeks the highest sound quality possible. In the world of **IEMs (In-Ear Monitors)**, audiophiles chase clarity, soundstage, and balanced tuning to experience music as intended by the artist.
+Just a regular guy, a passionate listener who seeks the highest sound quality possible. In the world of IEMs (In-Ear Monitors), audiophiles chase clarity, soundstage, and balanced tuning to experience music as the artist intended.
 
 A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolution, reducing distortion, and unlocking the full potential of high-quality headphones and IEMs.
 
@@ -35,8 +35,8 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 ![Pipeline](https://img.shields.io/badge/-Pipeline-0078D7?style=flat&logo=github-actions&logoColor=white)
 
 ---
