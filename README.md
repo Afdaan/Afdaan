@@ -1,11 +1,17 @@
-# Hi there, Im **Afdaan** 👋
+# Hi there, I'm **Afdaan** 👋
 
-I'm a Network Operations Center in Indonesia, Yogyakarta.  
 2+ years of experience in web development, especially in PHP and Laravel.  
 2+ years of experience in Cloud.
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/DanzdotTardotGz)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Afdaan)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/DanzdotTardotGz)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Afdaan)  
+<a href="https://alif.horn-yastudio.com/" target="_blank" style="display: inline-flex; align-items: center; background-color: #5254ec; color: white; text-decoration: none; padding: 4px 8px; border-radius: 6px; font-family: sans-serif; font-size: 12px; margin-bottom: 5px;">
+  <img src="https://raw.githubusercontent.com/Afdaan/Afdaan/main/horn-ya-studio-logo.svg" alt="Portfolio" style="height: 16px; margin-right: 6px;">
+  Portfolio
+</a>
+
+
+
 
 ---
 
@@ -66,18 +72,18 @@ A **DAC (Digital-to-Analog Converter)** is essential for improving audio resolut
   <summary>📊 <strong>GitHub Stats & Insights</strong> ✨</summary>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Afdaan&color=blue&style=flat)  
- ![GitHub Followers](https://img.shields.io/github/followers/Afdaan?style=flat&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Afdaan?style=flat&color=blue)
 
 ### 🚀 **GitHub Stats**
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500px"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500px"/>
+</p>
 
 ### 🔥 **Most Used Languages**
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="500px"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="500px"/>
+</p>
 
 </details>
