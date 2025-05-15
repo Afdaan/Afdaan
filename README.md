@@ -9,8 +9,6 @@ I'm a Network Operations Center in Indonesia, Yogyakarta.
 
 ---
 
-💡 I'm currently working in the **NOC** at [Bitwyre](https://bitwyre.id/) and several _fun_ personal projects.
-
 🌱 I'm currently learning ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) and ![Pipeline](https://img.shields.io/badge/-Pipeline-0078D7?style=flat&logo=github-actions&logoColor=white).  
 🎧 I listen to JPOP music in my spare time. 🎶  
 ☕ A cup a day.
