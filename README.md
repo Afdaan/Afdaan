@@ -50,17 +50,16 @@
 
 ### Learning
 - GitOps (ArgoCD)
-- Service Mesh (Istio)
 - SRE Practices
-- Advanced Automation with Go
+- Advanced Automation with Python
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
@@ -75,7 +74,7 @@
     <td bgcolor="#1e1e1e">
       <img src="https://img.shields.io/badge/-%E2%97%8F-red?style=flat-square" /> <img src="https://img.shields.io/badge/-%E2%97%8F-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/-%E2%97%8F-green?style=flat-square" />
       <br />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=500&color=32CD32&center=false&vCenter=false&width=435&height=100&lines=afdaan@infra:~$+kubectl+get+pods;afdaan@infra:~$+kubectl+get+pods%0Aweb-app-v1++0/1++Error;afdaan@infra:~$+kubectl+get+pods%0Aweb-app-v1++0/1++Error%0Aafdaan@infra:~$+sudo+rm+-rf+/;afdaan@infra:~$+kubectl+get+pods%0Aweb-app-v1++0/1++Error%0Aafdaan@infra:~$+sudo+rm+-rf+/%0A[##########]+100%+DELETED;Restoring+Systems...%0AInfrastructure+is+now+Stable.;afdaan@infra:~$+ready+to+serve++" alt="Terminal" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=500&color=32CD32&center=false&vCenter=false&width=435&height=100&lines=afdaan@infra:~$+kubectl+get+pods;afdaan@infra:~$+kubectl+get+pods%0Aweb-app-v1++0/1++Error%0Aafdaan@infra:~$+sudo+rm+-rf+/;[##########]+100%+DELETED;Restoring+Universe...%0AInfrastructure+Stable.;afdaan@infra:~$+ready." alt="Terminal" />
     </td>
   </tr>
 </table>
