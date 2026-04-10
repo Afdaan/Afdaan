@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td>
-      <img src="ascii-art.svg" width="200" />
+    <td width="300">
+      <img src="ascii-art.svg" width="300" />
     </td>
     <td>
       <h1>Afdaan</h1>
@@ -52,9 +52,7 @@
 - SRE Practices
 - Advanced Automation with Python
 
-
 ---
-
 
 ### System Console
 
