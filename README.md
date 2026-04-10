@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="20%">
-      <img src="biblos.jpg" width="150px" />
+    <td>
+      <img src="ascii-art.svg" width="200" />
     </td>
-    <td width="80%">
+    <td>
       <h1>Afdaan</h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=5254EC&lines=Middle+DevOps+Engineer;Full+Stack+Developer;Infrastructure+%26+Automation" alt="Typing SVG" />
       <p>Middle DevOps Engineer focused on infrastructure automation, CI/CD optimization, and cloud scalability. Experience in managing large-scale infrastructure and high-traffic platforms.</p>
@@ -52,33 +52,12 @@
 - SRE Practices
 - Advanced Automation with Python
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Afdaan&show_icons=true&theme=dark" alt="Afdaan's GitHub stats" />
-  </a>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdaan&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afdaan&color=grey&style=flat-square" alt="views" />
-</p>
 
 ---
 
-### 💻 System Console
-<table>
-  <tr>
-    <td bgcolor="#1e1e1e">
-      <img src="https://img.shields.io/badge/-%E2%97%8F-red?style=flat-square" /> <img src="https://img.shields.io/badge/-%E2%97%8F-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/-%E2%97%8F-green?style=flat-square" />
-      <br />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=500&color=32CD32&lines=afdaan@infra:~$+terraform+apply;Restoring+Systems...;Infrastructure+Stable.;afdaan@infra:~$+ready" alt="Terminal" />
-    </td>
-  </tr>
-</table>
+
+### System Console
+
+<p align="center">
+  <img src="terminal.svg" alt="Terminal" width="600" />
+</p>
