@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="300">
-      <img src="ascii-art.svg" width="300" />
+      <img src="ascii-art.svg" width="350" />
     </td>
     <td>
       <h1>Afdaan</h1>
